@@ -7,7 +7,7 @@ const Meteo = () => {
   const [weatherData, setWeatherData] = useState(null); 
   const [error, setError] = useState(''); 
 
-  const apiKey = 'bbfbac93414a76dbcd1182a2accea85a'; 
+  const apiKey = '+++++++++++++++++'; 
 
   const handleSearch = async () => {
     try {
