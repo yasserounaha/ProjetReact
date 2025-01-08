@@ -21,7 +21,7 @@ class Gallery extends Component {
 
     getHits(keyword) {
         let url =
-            "https://pixabay.com/api/?key=47790873-2a52f32f187b8797c0565eed1&q=" +
+            "https://pixabay.com/api/?key=47790873-==========&q=" +
             keyword +
             "&page=" +
             this.state.currentPage +
